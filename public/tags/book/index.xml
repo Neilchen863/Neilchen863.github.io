@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Isoland</title>
+    <link>http://localhost:1313/tags/book/</link>
+    <description>Recent content in Book on Isoland</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2024 15:21:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于Isoland的一切 ｜ About Isoland</title>
+      <link>http://localhost:1313/book/first/</link>
+      <pubDate>Fri, 14 Jun 2024 15:21:25 +0800</pubDate>
+      <guid>http://localhost:1313/book/first/</guid>
+      <description>Hello world! a ascava vafdv a v avaf</description>
+    </item>
+  </channel>
+</rss>
