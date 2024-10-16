@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Isoland</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Isoland</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2024 15:21:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于Isoland的一切 ｜ About Isoland</title>
+      <link>http://localhost:1313/life/about-isoland/</link>
+      <pubDate>Fri, 14 Jun 2024 15:21:25 +0800</pubDate>
+      <guid>http://localhost:1313/life/about-isoland/</guid>
+      <description>这是我的个人网站，希望能在这里记录、分享、感悟、成长。 其实很久以前就有建站的想法，可一直没想好要给她起什么名字，也没想好要写什么，于是便很自</description>
+    </item>
+  </channel>
+</rss>
