@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://Neilchen863.github.io/</loc>
     <lastmod>2024-06-14T15:21:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/life/</loc>
+    <loc>https://Neilchen863.github.io/life/</loc>
     <lastmod>2024-06-14T15:21:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/life/about-isoland/</loc>
+    <loc>https://Neilchen863.github.io/life/about-isoland/</loc>
     <lastmod>2024-06-14T15:21:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://Neilchen863.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://Neilchen863.github.io/tags/</loc>
   </url>
 </urlset>
