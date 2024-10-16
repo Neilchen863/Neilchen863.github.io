@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teches on Isoland</title>
-    <link>http://localhost:1313/tech/</link>
+    <link>https://Neilchen863.github.io/tech/</link>
     <description>Recent content in Teches on Isoland</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Oct 2024 20:35:25 +0800</lastBuildDate>
+    <atom:link href="https://Neilchen863.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hypothesis testing</title>
+      <link>https://Neilchen863.github.io/tech/hypothesis-testing/</link>
+      <pubDate>Wed, 16 Oct 2024 20:35:25 +0800</pubDate>
+      <guid>https://Neilchen863.github.io/tech/hypothesis-testing/</guid>
+      <description>Hello, world!</description>
+    </item>
   </channel>
 </rss>
