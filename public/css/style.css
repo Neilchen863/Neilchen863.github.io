@@ -17,12 +17,6 @@ body {
   box-sizing: inherit;
 }
 
-blockquote {
-  border-left: none;
-  padding-left: 0;
-
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -72,8 +66,9 @@ h3, h4, h5, h6 {
 }
 
 blockquote {
-  border-left: none;
-  padding-left: 0;
+  margin: 1em 0;
+  padding: 0 2em;
+  border-left: 3px solid #ddd;
 }
 
 /* Code */
@@ -312,7 +307,7 @@ figure figcaption {margin:0.5rem auto 1rem;width: 35%;border-top: 1px solid #bbb
 figure figcaption:before {content: "◎ ";}
 figure img{max-width:100%;border-radius:0;display: inline-block;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 5px;margin-inline-end: 7px;}
 @media (max-width:683px) {
-  figure figcaption {width: 75%;}
+ figure figcaption {width: 75%;}
 }
 
 /* Tablet screens and smaller */
@@ -485,28 +480,28 @@ figure img{max-width:100%;border-radius:0;display: inline-block;margin-block-sta
 
 .post-content a {
   color: #191919;
-  padding: 2px 0 1px 0;
-  text-decoration: none;
-  background-image: linear-gradient(
-          transparent 0%,
-          transparent calc(50% - 9px),
-          #ffdb00 calc(50% - 9px),
-          #ffdb00 100%
-  );
-  transition: background-position 120ms ease-in-out, padding 120ms ease-in-out;
-  background-size: 100% 200%;
-  background-position: 0 0;
-  word-break: break-word;
+   padding: 2px 0 1px 0;
+   text-decoration: none;
+   background-image: linear-gradient(
+     transparent 0%,
+     transparent calc(50% - 9px),
+     #ffdb00 calc(50% - 9px),
+     #ffdb00 100%
+   );
+   transition: background-position 120ms ease-in-out, padding 120ms ease-in-out;
+   background-size: 100% 200%;
+   background-position: 0 0;
+   word-break: break-word;
 }
 
 .post-content a:hover {
-  background-image: linear-gradient(
-          transparent 0%,
-          transparent calc(50% - 9px),
-          #ffdb00 calc(50% - 9px),
-          #ffdb00 100%
-  );
-  background-position: 0 100%;
+ background-image: linear-gradient(
+   transparent 0%,
+   transparent calc(50% - 9px),
+   #ffdb00 calc(50% - 9px),
+   #ffdb00 100%
+ );
+ background-position: 0 100%;
 }
 
 /* Photos */
@@ -543,7 +538,7 @@ h3.title, p.author {
 
 h3.title {
   color: #841212 !important;
-  margin: 0 !important;
+  margin: 0 !important; 
 }
 
 h3.title a, .review-link a {
@@ -571,14 +566,14 @@ p.description {
 .gallery-photo:hover span.photo-title{display:block;}
 .gallery-photo:hover img{transform: scale(1.1);}
 @media screen and (max-width: 1800px) {
-  .gallery-photo{width:33.3%;}
+	.gallery-photo{width:33.3%;}
 }
 @media screen and (max-width: 860px) {
-  .gallery-photo{width:49.9%;}
+	.gallery-photo{width:49.9%;}
 }
 @keyframes fadeIn{
-  0% {opacity: 0;}
-  100% {opacity: 1;}
+	0% {opacity: 0;}
+   100% {opacity: 1;}
 }
 
 /* douban */

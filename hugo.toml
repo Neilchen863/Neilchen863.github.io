@@ -1,4 +1,4 @@
-theme = "ivy"
+theme = "ivy0"
 baseURL = 'http://neilchen863.github.io/'
 languageCode = 'en-us'
 title = 'Isoland'
