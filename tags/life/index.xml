@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Isoland</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in Life on Isoland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/06/12/zuvxB7EP6OtaNJm.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个人应该能够给孩子换尿布、计划一次侵略行动、杀猪、驾驶飞船、设计建筑物、写诗、做会计账目、砌墙、接合断骨、照顾临终的人、执行命令、下达命令、与人合作、独立行动、解方程式、分析一个新问题、施肥、编程、做一餐美味的饭、高效地战斗、勇敢地死去。专业化是为昆虫准备的。
+——&lt;em&gt;罗伯特·海因莱恩&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;these-days&#34;&gt;These days&lt;/h2&gt;
+&lt;p&gt;夏日漫长，远离了学业的困扰，再加上炎热的天气，有时难免陷入一种空虚的混沌感，于是建站后第一件事便是开出一个these days板块，提醒自己在干什么，要干什么，想干什么。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;上班、学习、弹吉他、学日语、读读小说、看看电影，偶尔写写东西。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;recent-posts&#34;&gt;Recent posts&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
