@@ -13,7 +13,7 @@
       <link>https://Neilchen863.github.io/tech/hypothesis-testing/</link>
       <pubDate>Wed, 16 Oct 2024 20:35:25 +0800</pubDate>
       <guid>https://Neilchen863.github.io/tech/hypothesis-testing/</guid>
-      <description>Hypothesis Testing Outline Step1: Assumptions Step2: Stating hypothesis Step3: Test statistics and its null distribution Step4: P-value and its intepretation Step5: Conclusion&#xA;Step1: Assumptions c&#xA;The variable measured is categorical. The data are obtained using randomization. The sample size n is sufficiently large that the sampling distribution of the sample proportion $\hat{p}$ is approximately Normal when the null is true. (This will be true if n⋅p0⋅(1 − p0) ≥ 5, where p0 is the value specified in H0.</description>
+      <description>Hypothesis Testing Outline Assumptions Stating hypothesis Test statistics and its null distribution P-value and its intepretation Conclusion Step1: Assumptions For proportion The variable measured is categorical. The data are obtained using randomization. The sample size n is sufficiently large that the sampling distribution of the sample proportion $\hat{p}$ is approximately Normal when the null is true. (This will be true if n⋅p0⋅(1 − p0) ≥ 5, where p0 is the value specified in H0.</description>
     </item>
   </channel>
 </rss>
