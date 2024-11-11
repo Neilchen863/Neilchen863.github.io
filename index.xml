@@ -6,8 +6,15 @@
     <description>Recent content in Home on Isoland</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2024 00:56:25 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 15:21:25 +0800</lastBuildDate>
     <atom:link href="https://Neilchen863.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writen in my 20th ｜ 写在二十</title>
+      <link>https://Neilchen863.github.io/life/writen-in-my-20th/</link>
+      <pubDate>Thu, 07 Nov 2024 15:21:25 +0800</pubDate>
+      <guid>https://Neilchen863.github.io/life/writen-in-my-20th/</guid>
+      <description>20岁 不论从各种意义上来讲都是生命里最宽广也最深刻的一年。渐渐适应了在热带小岛新加坡的一切，却也在加利福尼亚的夏天体会到一望无际的自由。完成</description>
+    </item>
     <item>
       <title>Loneliness and meaningfulness</title>
       <link>https://Neilchen863.github.io/life/lonely-soul/</link>
@@ -28,13 +35,6 @@
       <pubDate>Fri, 14 Jun 2024 15:21:25 +0800</pubDate>
       <guid>https://Neilchen863.github.io/life/about-isoland/</guid>
       <description>这是我的个人网站，希望能在这里记录、分享、感悟、成长。 其实很久以前就有建站的想法，可一直没想好要给她起什么名字，也没想好要写什么，于是便很自</description>
-    </item>
-    <item>
-      <title>Writen in my 20th ｜ 写在二十</title>
-      <link>https://Neilchen863.github.io/life/writen-in-my-20th/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Neilchen863.github.io/life/writen-in-my-20th/</guid>
-      <description>20岁 不论从各种意义上来讲都是生命里最宽广也最深刻的一年。渐渐适应了在热带小岛新加坡的一切，却也在加利福尼亚的夏天体会到一望无际的自由。完成</description>
     </item>
   </channel>
 </rss>
